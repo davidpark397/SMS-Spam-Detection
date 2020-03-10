@@ -14,7 +14,7 @@ Almeida, T.A., GÃ³mez Hidalgo, J.M., Yamakami, A. Contributions to the Study o
 http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
 
 ## How to Run
-Create a virtual environment and install the packages listed in `requirements.txt` using:
+Make sure you have installed the packages listed in `requirements.txt`. Otherwise, install them by using a command like:
 ```
 pip install -r requirements.txt
 ```
